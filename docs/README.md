@@ -23,6 +23,8 @@ Also, be aware that not everyone is in our timezone.
 
 ### Thread at all times, even on your own messages
 
+Every top level message posted in a channel will notify members of that channel. When responding to an existing topic, use “Reply in thread” on the right side menu of a message. This only sends notifications to people contributing to the thread, and people who have requested to receive notifications on that thread. This helps reduce the number of notifications to everyone and keeps the alerts relevant.
+
 A lot of why Slack gets overwhelming is that separate topics overlap in a channel. The other discussions pop up in between, and the conversation breaks down. Threads are the antidote, keeping the clutter contained like a good foldering system. This even applies to your own messages.
 
 ### @here over @channel, sparingly
