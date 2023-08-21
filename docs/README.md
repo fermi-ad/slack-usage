@@ -43,6 +43,16 @@ When you turn on the DND, your Slack status changes to indicate you are unavaila
 
 It is important to know that in case of urgency or a situation where an immediate response, DND can be bypassed and overridden. However, it is important to respect colleagues’ DND, except if the situation calls for otherwise.
 
+### Subscribing and unsubscribing to threads
+
+If you respond to a thread, you will be subscribed to replies in that thread.
+
+If there's a top level message thread that you want to follow but don't want to send a message, you can click "..." on the right side menu and "Get notified about new replies".
+
+If you are subscribed to a thread and don't want new notifications, you can do the same by clicking "..." on the right side menu and "Turn off notifications for replies".
+
+If you want to follow all replies in all threads in a channel, you can click on the channel name at the top of a channel then click the notification section with the bell. There you will see a pop-up with "More notification options" and there's a checkbox with "Get notified about all replies and show them in your Threads view" as well as many other notification options.
+
 ## Managing channels
 
 ### Use Group DMs
