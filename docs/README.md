@@ -57,7 +57,7 @@ Instead, you should make a named private channel. You're creating the group DM t
 
 ## Pitfalls and alternative strategies
 
-It's tempting to use a combination of marking unread or setting reminders for messages you need to take action on. But they're both flawed.
+It's tempting to use "Mark unread" for messages you need to take action on. But this strategy is problematic.
 
 ### Marking unread
 
@@ -65,11 +65,11 @@ If you try to come back to messages by marking them unread, now you don't get to
 
 ### Setting reminders
 
-Reminders are an awesome feature! You can click on the "..." on a message and set a reminder about it, so that Slack will notify you in the future with a link to get back to the message. The problem is, it basically disappears in the meantime, so you have place where you can see your to-do list of things you set reminders on. Then the reminder will buzz, but it won't be a great time to work on it, so you'll snooze the reminder, and it disappears all over again. And if you forget to snooze the reminder, you'll lose the unread notification in Slackbot!
+Reminders are an awesome feature! You can click on the "..." on a message and set a reminder about it, so that Slack will notify you in the future with a link to get back to the message. These reminders go into the "Later" section with all your "Saved for later" bookmarks. When the reminder timer is up, the reminder will buzz.
 
 ### Alternative best practice
 
-Instead, you can use "Saved Items" as your to-do list. On a message, click the "..." button and then the bookmark icon ("Add to saved items"). That will add it to the Saved Items list, in the top left of your channel menu. Saved items is great, because it will show you messages across all channels that you've saved. You can simply unsave them when you're done with the task.
+Instead of marking unread you can use "Later" as your to-do list. On a message, click the bookmark button ("Save for later"). That will add it to the Later list, in the top left of your channel menu. Later is great, because it will show you messages across all channels that you've saved. You can simply unsave or complete them when you're done with the task.
 
 ## Useful tips and features
 
