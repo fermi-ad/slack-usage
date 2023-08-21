@@ -55,11 +55,13 @@ If you want to follow all replies in all threads in a channel, you can click on 
 
 ## Managing channels
 
-### Use Group DMs
+### Use named private channels
 
 Group DMs are too hard to find later because you have to remember exactly who the members were. You'll inevitably forget someone you didn't expect to be invited.
 
 Instead, you should make a named private channel. You're creating the group DM to talk about a particular subject (a customer, project, etc.), so a channel gives you a friendly name you can use to find it later.
+
+You can create a private channel from a group DM by clicking on the group DM names at the top of the channel. Under the "Settings" tab on the pop-up there's a button for "Change to a private channel".
 
 ## Pitfalls and alternative strategies
 
