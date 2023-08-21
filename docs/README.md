@@ -15,12 +15,6 @@ They're a bit hidden these days, but you can find them from the Shortcuts menu (
 
 ## Be conscious of sending many notifications to many users
 
-### Be aware of how many people are in the channel
-
-When you post in any channel, you are sending a notification to all the people in that channel. Be especially cautious when sending messages to the default channels that include everyone. In August 2023, the default channels are #general, #random, #resources-general, and #resources-conference-updates.
-
-Also, be aware that not everyone is in our timezone.
-
 ### Thread at all times, even on your own messages
 
 Every top level message posted in a channel will notify members of that channel. When responding to an existing topic, use “Reply in thread” on the right side menu of a message. This only sends notifications to people contributing to the thread, and people who have requested to receive notifications on that thread. This helps reduce the number of notifications to everyone and keeps the alerts relevant.
