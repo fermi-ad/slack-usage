@@ -7,6 +7,20 @@ If you are looking for more detailed guidance, Slack has some advice on communic
 
 ## General best practices
 
+### Use topical channels
+
+Using topical channels helps Slack users easily filter for information most relevant to them.
+
+There are a few channels that everyone is subscribed to by default, #general, #random, #resources-general, and #resources-conference-updates.
+
+The #general channel is a safe place to post question, comments, and concerns that need a response. These messages have a level of importance that deserves attention. Don't hesitate to post here if you don't know where else to post.
+
+The #random channel is for any content that doesn't need a response. Things we'd like to share with everyone whether it's a good laugh or just a place to vent.
+
+The #resources-general channel is a place to share resources, like a place for reference material that's broadly interesting to Controls. Things like C++ best practices, or managing electronics hardware design with a new tool.
+
+The #resources-conference-updates channel is a place to share conference announcements as well as information during and after a conference. This could be an announcement of a conference review presentation or a thread of live reporting from the conference. Pictures are encouraged.
+
 ### Use Posts for longer-form thought
 
 Like threading, Slack's built-in Posts are another way to prevent sprawl in a busy channel. If you've never used them, Posts are documents that you can compose in Slack and attach to a message, so no one has to leave to go to Google Docs or Notion to see longer-form thoughts.
